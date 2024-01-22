@@ -3,9 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B45F6C&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Nós+somos+o+Squad+25.;Somos+5+formandos+da+Recode+Pro+2023.;Do+curso+de+desenvolvedores+Full+Stack.;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-# ..............................................................................................................................
-</div>
+#
 
 
 
