@@ -53,7 +53,7 @@ Obrigado por visitar nosso perfil  🎓✨
 </div>
 
   
-## ✍ Sobre nós
+## ✍ Nossos contatos
 
 <div align="center">
 
