@@ -1,12 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B45F6C&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B45F6C&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Nós+somos+o+Squad+25.;Somos+5+formandos+da+Recode+Pro+2023.;Do+curso+de+desenvolvedores+Full+Stack.;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B45F6C&size=35&center=true&vCenter=true&width=1000&lines=Óla,+Nós+somos+o+Squad+25.;Sejam+Bem+Vindos(as)!+:%29)](https://git.io/typing-svg)
 
 #
 
 
 
+Somos 5 formandos da [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro") 2023 do curso de desenvolvedores full stack.
 Estamos empolgados para compartilhar nossa jornada de aprendizado e conquistas com vocês! E diante disso,
 criamos este repositório com o intuito de divulgar o trabalho final do nosso **Squad 25**. 
 
